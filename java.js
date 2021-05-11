@@ -15,8 +15,7 @@ console.log(fibonnaci(1))
 console.log(fibonnaci(2))
 console.log(fibonnaci(8))
 console.log(fibonnaci(8))
-console.log(fibonnaci(20))
-console.log(fibonnaci(50))
+
 
 function fibonnaci(n, array=[0,1],helper=2) {
     n2 = n+1
